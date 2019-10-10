@@ -6,4 +6,5 @@ def tower(n, start = "1", dest = "2", spare = "3"):
         tower(1) #print(f"from {start} move to {dest}")
         tower(n-1, spare, dest, start)
 
-tower(3)
+if __main__ == "__name__":
+	tower(3)
