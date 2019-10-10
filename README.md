@@ -6,3 +6,5 @@ Each move consists of taking the upper disk from one of the stacks and placing i
 No larger disk may be placed on top of a smaller disk. 
 
 https://en.wikipedia.org/wiki/Tower_of_Hanoi
+
+This code example is using recursion to solve Tower of Hanoi puzzle.
