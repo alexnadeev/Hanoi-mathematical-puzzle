@@ -8,5 +8,5 @@ def tower(n, start = "1", dest = "2", spare = "3"):
 
 
 if __name__ == "__main__":
-	tower(3)
+    tower(3)
 
